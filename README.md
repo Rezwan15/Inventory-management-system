@@ -1,3 +1,8 @@
+Create two folder named public and src.
+put favicon.ico, index.html, logo 192.png,logo512.png , manifest.json, robots.text in the public folder
+
+put App.css, App.js, App.test.js, Filter.js , index.css , index.js . logo.svg, product.js , ProductFrom.js, ProductRow.js, ProductTable.js, reportWebVitals.js, setupTest.js on src folder.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
